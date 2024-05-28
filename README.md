@@ -23,7 +23,7 @@ tel. 606-576-299
 1. **Klonowanie repozytorium:**
 
     ```sh
-    git clone https://github.com/uzytkownik/zabezpieczpdf.git
+    git clone https://github.com/ozoadmin/zabezpieczpdf.git
     cd zabezpieczpdf
     ```
 
