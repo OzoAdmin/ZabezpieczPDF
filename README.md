@@ -5,9 +5,6 @@ ZabezpieczPDF to narzędzie do zabezpieczania plików PDF hasłem. Program pozwa
 ## Autor
 
 Michał Kowalski  
-[www.cyberbezpiecznysamorzad.plus](http://www.cyberbezpiecznysamorzad.plus)  
-kontakt@cyberbezpiecznysamorzad.plus  
-tel. 606-576-299
 
 ## Wersja
 
